@@ -31,6 +31,13 @@ This tool is actively used in a production environment to:
 - Organize QC data
 - Reduce manual work
 
+## ⚙️ Configuration
+
+Before running the tool, update the Google Drive path in the code based on your system:
+
+```python
+GOOGLE_DRIVE_ROOT = r"G:\My Drive\Profile 1.6"
+
 ## 👨‍💻 Author
 
 Vrijesh Pandey
